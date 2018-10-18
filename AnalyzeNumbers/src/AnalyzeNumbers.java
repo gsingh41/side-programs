@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class AnalyzeNumbers {
 
+    // This program asks the user for number of items to store in array that will be used for average
+    // and also to find out the amount of numbers that are higher than the average
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number of items: ");
